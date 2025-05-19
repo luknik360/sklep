@@ -1,1 +1,1 @@
-console.log("działa")
+console.log("witaj w moim sklepie")
